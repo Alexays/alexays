@@ -1,4 +1,4 @@
-### Hi, I'm Alexis. Keep it simple, stupid is my motto.
+### Hi, I'm Alexis. Keep it simple, stupid is my motto. 👋
 
 Open source hacker and performance nerd: make it simple, then make it fast, then make it faster. If it burns CPU at idle, it's a bug. I measure twice and allocate once.
 
