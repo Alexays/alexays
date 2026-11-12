@@ -10,6 +10,9 @@ A Mac browser on WebKit, and not yet another Chromium in a trench coat. Arc-styl
 **Maintaining since 2018: [Waybar](https://github.com/Alexays/Waybar)** <img src="https://img.shields.io/github/stars/Alexays/Waybar?style=flat&label=stars&color=8b5cf6" alt="Stars" align="absmiddle">\
 Probably the bar at the top of a Linux desktop near you: Sway, Hyprland, niri, river and dwl. 760+ contributors, packaged in 80+ distribution repositories.
 
+**Also building: [Lexis](https://github.com/Alexays/Lexis)** <img src="https://img.shields.io/github/stars/Alexays/Lexis?style=flat&label=stars&color=8b5cf6" alt="Stars" align="absmiddle">\
+A media player for Apple TV that plays the file, not a transcode: its own Dolby Vision and HDR pipeline, a learned upscaler on the Neural Engine, and recommendations that never leave the device. Rust core, Swift app, early release.
+
 **Where it started: [Epiboard](https://github.com/Alexays/Epiboard)** <img src="https://img.shields.io/github/stars/Alexays/Epiboard?style=flat&label=stars&color=8b5cf6" alt="Stars" align="absmiddle">\
 A new tab page extension, from back when material design was the new thing.
 
